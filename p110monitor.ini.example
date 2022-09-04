@@ -1,0 +1,14 @@
+[auth]
+email = email@email.email
+password = p4sSw0rd
+
+[Device 1]
+ip = 192.168.1.2
+
+[Device 2]
+ip = 192.168.1.3
+
+[Device with custom auth]
+email = different@email.email
+password = 4als0DifF3rent
+ip = 192.168.1.4
